@@ -47,19 +47,14 @@ We used the **Telco Customer Churn Dataset** from Kaggle.
 The full implementation, including data exploration, preprocessing, model training, and evaluation, can be found in the notebook:  
 [🔗 Project Notebook](https://github.com/faris-alsherif/Customer-Churn-Prediction/blob/main/Project_Customer_Churn_Prediction.ipynb)
 
-## 📦 Deliverables
-- GitHub repository: **Customer-Churn-Prediction**  
-- Jupyter Notebook with model comparison.  
-- Detailed report explaining the results and evaluation metrics.  
-
 ## 👥 Team Members
 This project was completed by **6 team members**:  
 
 - Member 1: Faris Sherif Taha  
 - Member 2: Fahd Sherif Taha
 - Member 3: Mahmoud Waheed Mahmoud
-- Member 4: Shahd Elsayed Hosny
-- Member 5: Shahd Moatasem Korany
+- Member 4: Shahd Elsayed Hosney
+- Member 5: Shahd Moatasem
 - Member 6: Belal Adel Hassan
 
 ---
